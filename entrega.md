@@ -11,3 +11,7 @@
 -Chiara Palermo <https://github.com/chiara-palermo/modulo_1>
 
 -Matias Rosa <https://github.com/MatiasRosa03/modulo_1>
+
+---
+
+Entrega del modulo 1 <https://github.com/Rubencruz0703/modulo_1/tree/main>
