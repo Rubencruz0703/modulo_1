@@ -8,9 +8,9 @@
 
 -Simon Fischer <https://github.com/Simon-Fischer-2015/modulo_1>
 
--Chiara Palermo <https://github.com/chiara-palermo/modulo_1>
+-Chiara Palermo <https://github.com/chiara-palmero/Modulo_1>
 
--Matias Rosa <https://github.com/MatiasRosa03/modulo_1>
+-Matias Rosa <https://github.com/MatiasRosa03/Modulo1>
 
 ---
 
