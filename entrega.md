@@ -2,7 +2,7 @@
 
 **Grupo Alfa**
 
--Ruben Cruz <https://github.com/Rubencruz0703/modulo_1>
+-Ruben Exequiel Cruz <https://github.com/Rubencruz0703/modulo_1>
 
 -Yesica Villaca <https://github.com/yesicavillaca-stack/modulo_1>
 
