@@ -6,7 +6,7 @@
 
 -Yesica Villaca <https://github.com/yesicavillaca-stack/modulo_1>
 
--Simon Fischer <https://github.com/Simon-Fischer-2015/modulo_1>
+-Simon Fischer <https://github.com/Simon-Fischer-2015/Simon-Fischer-2015-modulo_1>
 
 -Chiara Palermo <https://github.com/chiara-palmero/Modulo_1>
 
